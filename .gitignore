@@ -20,3 +20,7 @@ Desktop.ini
 
 # Output Folder
 optimized_gifs/
+
+# Exclude shell scripts
+*.sh
+optimize-gifs.sh
