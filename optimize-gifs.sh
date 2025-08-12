@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SRC_DIR="./your_source_directory"  # Root folder to start from
-DEST_DIR="./optimized_gifs"
+SRC_DIR="./chapter4"  # Root folder to start from
+DEST_DIR="./optimized_gifs/ch4"
 MAX_DIM=1200
 
 echo "Optimizing GIFs from $SRC_DIR to $DEST_DIR ..."
