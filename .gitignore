@@ -19,6 +19,7 @@ Desktop.ini
 *.old
 
 # Output Folder
+input_gifs/
 optimized_gifs/
 
 # Exclude shell scripts
